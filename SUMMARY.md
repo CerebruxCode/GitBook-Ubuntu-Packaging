@@ -7,7 +7,7 @@
    * [Ο κατάλογος «debian»](The Debian Directory.md)
 * [Προετοιμασία](Preparation.md)
    * [Εγκατάσταση εργαλείων](Tools Installation.md)
-   * Δημιουργία κλειδιού κρυπτογράφησης GPG
+   * [Δημιουργία κλειδιού κρυπτογράφησης GPG](GPG Key Creation.md)
 * [Packaging](Packaging.md)
 * [Σχόλια](Comments.md)
 
