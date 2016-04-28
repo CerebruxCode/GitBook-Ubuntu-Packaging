@@ -8,7 +8,7 @@
 * [Προετοιμασία](Preparation.md)
    * [Εγκατάσταση εργαλείων](Tools Installation.md)
    * [Δημιουργία κλειδιού κρυπτογράφησης GPG](GPG Key Creation.md)
-   * Ρύθμιση παραμέτρων περιβάλλοντος
+   * [Ρύθμιση παραμέτρων περιβάλλοντος](Environment Variables.md)
 * [Packaging](Packaging.md)
 * [Σχόλια](Comments.md)
 
