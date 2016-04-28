@@ -11,5 +11,6 @@
    * [Ρύθμιση παραμέτρων περιβάλλοντος](Environment Variables.md)
    * [Ρύθμιση εργαλείων](Tools Setup.md)
 * [Packaging](Packaging.md)
+   * Αναβάθμιση έκδοσης υπάρχοντος λογισμικού για το Ubuntu
 * [Σχόλια](Comments.md)
 
