@@ -4,7 +4,7 @@
 * [Πληροφορίες](Information.md)
    * [Τί είναι το Packaging;](What Is Packaging.md)
    * [Δομή ενός έργου ΕΛ/ΛΑΚ - Πηγαίος κώδικας](Source Code.md)
-   * Ο κατάλογος «debian»
+   * [Ο κατάλογος «debian»](The Debian Directory.md)
 * [Προετοιμασία](Preparation.md)
 * [Packaging](Packaging.md)
 * [Σχόλια](Comments.md)
