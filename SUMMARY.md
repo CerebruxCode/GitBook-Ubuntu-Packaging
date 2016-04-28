@@ -4,5 +4,5 @@
 * [Πληροφορίες](Information.md)
 * [Προετοιμασία](Preparation.md)
 * [Packaging](Packaging.md)
-* Σχόλια
+* [Σχόλια](Comments.md)
 
