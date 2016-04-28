@@ -1,5 +1,5 @@
 # Summary
 
 * [Εισαγωγή](README.md)
-* Πληροφορίες
+* [Πληροφορίες](Information.md)
 
