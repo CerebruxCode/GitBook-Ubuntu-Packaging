@@ -2,7 +2,7 @@
 
 * [Εισαγωγή](README.md)
 * [Πληροφορίες](Information.md)
-* Προετοιμασία
+* [Προετοιμασία](Preparation.md)
 * Packaging
 * Σχόλια
 
