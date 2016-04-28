@@ -11,8 +11,8 @@
    * [Ρύθμιση παραμέτρων περιβάλλοντος](Environment Variables.md)
    * [Ρύθμιση εργαλείων](Tools Setup.md)
 * [Packaging](Packaging.md)
+   * [Δημιουργία αποθετηρίου για τη φιλοξενία πακέτων](Uploading A Package.md)
    * [Αναβάθμιση έκδοσης υπάρχοντος λογισμικού για το Ubuntu](Upgrading A Package.md)
    * [Δημιουργία πακέτου από το μηδέν](Creating A Package.md)
-* [Δημιουργία αποθετηρίου για τη φιλοξενία πακέτων](Uploading A Package.md)
 * [Σχόλια](Comments.md)
 
