@@ -13,6 +13,6 @@
 * [Packaging](Packaging.md)
    * [Αναβάθμιση έκδοσης υπάρχοντος λογισμικού για το Ubuntu](Upgrading A Package.md)
    * [Δημιουργία πακέτου από το μηδέν](Creating A Package.md)
-   * Δημιουργία αποθετηρίου για τη φιλοξενία πακέτων
+   * [Δημιουργία αποθετηρίου για τη φιλοξενία πακέτων](Uploading A Package.md)
 * [Σχόλια](Comments.md)
 
