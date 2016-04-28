@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        "code-highlighter",
+        "codeblock-filename",
+        "copy-code-button",
+        "emphasize",
+        "image-captions"
+    ],
+    "pluginsConfig": {}
+}
