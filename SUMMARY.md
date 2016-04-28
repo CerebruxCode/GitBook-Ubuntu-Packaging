@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](Introduction.md)
-* [Εισαγωγή](Introduction.md)
+* [Introduction](README.md)
 * [Πληροφορίες](Information.md)
    * [Τί είναι το Packaging;](What Is Packaging.md)
    * [Δομή ενός έργου ΕΛ/ΛΑΚ - Πηγαίος κώδικας](Source Code.md)
