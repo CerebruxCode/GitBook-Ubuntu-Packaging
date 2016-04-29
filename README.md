@@ -1,4 +1,4 @@
-# Εισαγωγή στο Ubuntu Packaging ~[cerebrux.net](https://cerebrux.net)
+# Εισαγωγή στο Ubuntu Packaging
 
 
 ![](https://cerebrux.files.wordpress.com/2016/04/introduction-to-ubuntu-pagkaging.png?w=680)
