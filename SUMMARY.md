@@ -15,5 +15,4 @@
    * [Δημιουργία πακέτου από το μηδέν](Creating A Package.md)
    * [Δημιουργία αποθετηρίου για τη φιλοξενία πακέτων](Uploading A Package.md)
 * [Σχόλια](Comments.md)
-* [Credits](Credits.md)
 
