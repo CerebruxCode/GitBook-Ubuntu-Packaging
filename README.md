@@ -1,5 +1,9 @@
-# Εισαγωγή στο Ubuntu Packaging
+# Εισαγωγή στο Ubuntu Packaging ~[cerebrux.net](https://cerebrux.net)
+
+
 ![](https://cerebrux.files.wordpress.com/2016/04/introduction-to-ubuntu-pagkaging.png?w=680)
+
+
 
 Σε αυτό το e-book γίνεται μία εισαγωγή στην διαδικασία του «*πακεταρίσματος*» λογισμικού (ΕΛ/ΛΑΚ) για το Ubuntu.
 
